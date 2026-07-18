@@ -142,4 +142,4 @@ jobs:
           kubectl get svc -n $EKS_NAMESPACE
           kubectl get hpa -n $EKS_NAMESPACE || true
 
-          //prueba 
+          //test
